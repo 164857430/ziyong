@@ -2,6 +2,8 @@ DOMAIN-SUFFIX,lilyemby.app,PROXY
 DOMAIN,emby.oceancloud.asia,PROXY
 DOMAIN,emby.micro.cr18.eu.org,PROXY
 DOMAIN,miorina.com,PROXY
-DOMAIN,xxm.kingemby.xyz,PROXY
-DOMAIN,media.wybcs.work,PROXY
+DOMAIN,emby.kingemby.xyz,PROXY
+DOMAIN-SUFFIX,chapanda.sbs,PROXY
+DOMAIN-SUFFIX,wybcs.work,PROXY
+DOMAIN-SUFFIX,tbag.dpdns.org,PROXY
 DOMAIN-SUFFIX,69yun69.com,PROXY
