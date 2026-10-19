@@ -1,6 +1,8 @@
 DOMAIN-SUFFIX,lilyemby.app,PROXY
 DOMAIN,emby.oceancloud.asia,PROXY
 DOMAIN,nsfw.oceancloud.asia,PROXY
+DOMAIN,yd.maoy.de,DIRECT
+DOMAIN-SUFFIX,mwyy.de,DIRECT
 DOMAIN,tdvideo-link-01.buzz,PROXY
 DOMAIN,micro.cr18.eu.org,PROXY
 DOMAIN,miorina.com,PROXY
