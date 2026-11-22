@@ -1,8 +1,8 @@
 
 DOMAIN,emby.oceancloud.asia,PROXY
 DOMAIN,nsfw.oceancloud.asia,PROXY
-DOMAIN,yd.maoy.de,DIRECT
-DOMAIN-SUFFIX,mwyy.de,DIRECT
+DOMAIN,yd.maoy.de,PROXY
+DOMAIN-SUFFIX,mwyy.de,PROXY
 DOMAIN,cfqm6748.chuncheon123.xyz,PROXY
 DOMAIN,tdvideo-link-01.buzz,PROXY
 DOMAIN,kitiemby.com,PROXY
